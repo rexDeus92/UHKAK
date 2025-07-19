@@ -1,0 +1,7 @@
+  <svg width="0" height="0">
+    <clipPath id="my-curvy-clip" clipPathUnits="objectBoundingBox">
+      <!-- Сюда вставляем тег <path> из твоего оптимизированного SVG-файла -->
+      <!-- Пример того, как это будет выглядеть: -->
+      <path d="M0,0 H1 V0.85 C0.8,1 0.2,1 0,0.85 Z"></path>
+    </clipPath>
+  </svg>
